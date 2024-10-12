@@ -1,6 +1,6 @@
 USING: tools.deploy.config ;
 H{
-    { deploy-console? t }
+    { deploy-console? f }
     { deploy-io 3 }
     { deploy-reflection 6 }
     { deploy-ui? f }
